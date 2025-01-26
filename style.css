@@ -17,3 +17,211 @@ p:nth-child(7) {
 .yellow {
     color: yellow;
 }
+
+h1:hover {
+
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+
+/* Ефекти наведення для кожного дня тижня */
+.mondayhover:hover {
+    color: yellow;
+    background-color: lightblue;
+}
+
+.tuesdayhover:hover {
+    color: cyan;
+    background-color: lightgreen;
+}
+
+.wednesdayhover:hover {
+    color: magenta;
+    background-color: lightcoral;
+}
+
+.thursdayhover:hover {
+    color: lime;
+    background-color: rgb(250, 250, 210);}
+
+.fridayhover:hover {
+    color: orange;
+    background-color: lightcyan;
+
+}
+/* -------------- */
+/* Понеділок */
+/* -------------- */
+.monday li:nth-child(2) {
+    color: blue;
+}
+
+.monday li:nth-child(3) {
+    color: green;
+}
+
+.monday li:nth-child(4) {
+    color: orange;
+}
+
+.monday li:nth-child(5) {
+    color: purple;
+}
+
+.monday li:nth-child(6) {
+    color: brown;
+}
+
+.monday li:nth-child(7) {
+    color: pink;
+}
+
+.monday:hover {
+    background-color: lightblue;
+}
+
+.monday li:hover {
+    color: yellow;
+}
+/* -------------- */
+/* Вівторок */
+/* -------------- */
+.tuesday li:nth-child(1) {
+    color: red;
+}
+
+.tuesday li:nth-child(2) {
+    color: blue;
+}
+
+.tuesday li:nth-child(3) {
+    color: green;
+}
+
+.tuesday li:nth-child(4) {
+    color: orange;
+}
+
+.tuesday li:nth-child(5) {
+    color: purple;
+}
+
+.tuesday li:nth-child(6) {
+    color: brown;
+}
+
+.tuesday li:nth-child(7) {
+    color: pink;
+}
+
+.tuesday:hover {
+    background-color: lightgreen;
+}
+
+.tuesday li:hover {
+    color: cyan;
+}
+/* -------------- */
+/* Середа */
+/* -------------- */
+.wednesday li:nth-child(1) {
+    color: red;
+}
+
+.wednesday li:nth-child(2) {
+    color: blue;
+}
+
+.wednesday li:nth-child(3) {
+    color: green;
+}
+
+.wednesday li:nth-child(4) {
+    color: orange;
+}
+
+.wednesday li:nth-child(5) {
+    color: purple;
+}
+
+.wednesday li:nth-child(6) {
+    color: brown;
+}
+
+.wednesday:hover {
+    background-color: lightcoral;
+}
+
+.wednesday li:hover {
+    color: magenta;
+}
+/* -------------- */
+/* Четвер */
+/* -------------- */
+.thursday li:nth-child(1) {
+    color: red;
+}
+
+.thursday li:nth-child(2) {
+    color: blue;
+}
+
+.thursday li:nth-child(3) {
+    color: green;
+}
+
+.thursday li:nth-child(4) {
+    color: orange;
+}
+
+.thursday li:nth-child(5) {
+    color: purple;
+}
+
+.thursday li:nth-child(6) {
+    color: brown;
+}
+
+.thursday:hover {
+    background-color: rgb(250, 250, 210);
+}
+
+.thursday li:hover {
+    color: lime;
+}
+/* -------------- */
+/* П'ятниця */
+/* -------------- */
+.friday li:nth-child(1) {
+    color: red;
+}
+
+.friday li:nth-child(2) {
+    color: blue;
+}
+
+.friday li:nth-child(3) {
+    color: green;
+}
+
+.friday li:nth-child(4) {
+    color: orange;
+}
+
+.friday li:nth-child(5) {
+    color: purple;
+}
+
+.friday li:nth-child(6) {
+    color: brown;
+}
+
+.friday:hover {
+    background-color: lightcyan;
+}
+
+.friday li:hover {
+    color: orange;
+}
